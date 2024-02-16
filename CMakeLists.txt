@@ -32,7 +32,6 @@ link_directories(${MAYA_LIBRARIES_DIR})
 #project source file
 set(PROJECT_SOURCE
     src/pluginMain.cpp
-    include/SampleCommand.h
 )
 
 #config output
