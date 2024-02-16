@@ -1,0 +1,10 @@
+^C:\USERS\THANGLE\DOCUMENTS\GITHUB\MAYAPLUGINCMAKE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/THANGLE/Documents/GitHub/MayaPluginCmake -BC:/Users/THANGLE/Documents/GitHub/MayaPluginCmake/build --check-stamp-file C:/Users/THANGLE/Documents/GitHub/MayaPluginCmake/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

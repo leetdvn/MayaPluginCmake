@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\THANGLE\Documents\GitHub\MayaPluginCmake\build\CMakeFiles\f34b03a3c53d56b25cb8052cc7a30be1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26AAC513-DDD3-3975-BF9C-EB2D3B5BEA5F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

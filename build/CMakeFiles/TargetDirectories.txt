@@ -1,0 +1,3 @@
+C:/Users/THANGLE/Documents/GitHub/MayaPluginCmake/build/CMakeFiles/LeeSample.dir
+C:/Users/THANGLE/Documents/GitHub/MayaPluginCmake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/THANGLE/Documents/GitHub/MayaPluginCmake/build/CMakeFiles/ZERO_CHECK.dir
